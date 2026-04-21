@@ -1,0 +1,1201 @@
+﻿customer_id,segmento,region,canal_apertura,edad
+C00001,Personas,Centro,Digital,58
+C00002,Premium,Lima,Digital,58
+C00003,Pyme,Lima,Digital,48
+C00004,Personas,Lima,Digital,50
+C00005,Personas,Norte,Agencia,23
+C00006,Personas,Centro,Agencia,48
+C00007,Personas,Centro,Digital,23
+C00008,Pyme,Lima,Digital,65
+C00009,Personas,Lima,Convenio,54
+C00010,Pyme,Oriente,Agencia,36
+C00011,Personas,Lima,Agencia,42
+C00012,Premium,Norte,Digital,52
+C00013,Pyme,Lima,Agencia,58
+C00014,Personas,Sur,Digital,28
+C00015,Personas,Centro,Agencia,28
+C00016,Personas,Lima,Convenio,26
+C00017,Personas,Lima,Digital,34
+C00018,Personas,Centro,Digital,52
+C00019,Personas,Centro,Digital,55
+C00020,Personas,Lima,Digital,30
+C00021,Personas,Oriente,Digital,23
+C00022,Personas,Lima,Digital,32
+C00023,Personas,Lima,Call Center,69
+C00024,Personas,Oriente,Agencia,51
+C00025,Personas,Lima,Digital,49
+C00026,Pyme,Centro,Convenio,25
+C00027,Personas,Lima,Digital,45
+C00028,Personas,Lima,Convenio,61
+C00029,Personas,Oriente,Digital,51
+C00030,Personas,Lima,Convenio,41
+C00031,Personas,Sur,Agencia,40
+C00032,Personas,Lima,Call Center,59
+C00033,Personas,Lima,Convenio,42
+C00034,Premium,Lima,Digital,24
+C00035,Premium,Centro,Convenio,33
+C00036,Pyme,Lima,Digital,65
+C00037,Personas,Sur,Digital,62
+C00038,Personas,Norte,Digital,70
+C00039,Pyme,Oriente,Agencia,69
+C00040,Personas,Lima,Digital,40
+C00041,Personas,Sur,Agencia,33
+C00042,Personas,Centro,Agencia,37
+C00043,Personas,Centro,Call Center,56
+C00044,Premium,Sur,Call Center,53
+C00045,Personas,Centro,Agencia,21
+C00046,Pyme,Norte,Digital,35
+C00047,Personas,Lima,Digital,33
+C00048,Personas,Lima,Digital,37
+C00049,Personas,Oriente,Digital,44
+C00050,Personas,Norte,Digital,28
+C00051,Premium,Sur,Digital,70
+C00052,Pyme,Norte,Convenio,47
+C00053,Premium,Lima,Agencia,65
+C00054,Pyme,Lima,Digital,43
+C00055,Personas,Centro,Agencia,66
+C00056,Premium,Lima,Digital,28
+C00057,Personas,Lima,Agencia,28
+C00058,Personas,Norte,Agencia,46
+C00059,Personas,Lima,Agencia,67
+C00060,Personas,Norte,Digital,33
+C00061,Personas,Lima,Convenio,59
+C00062,Personas,Sur,Convenio,57
+C00063,Pyme,Lima,Agencia,69
+C00064,Personas,Norte,Agencia,48
+C00065,Personas,Lima,Agencia,45
+C00066,Personas,Lima,Digital,36
+C00067,Personas,Lima,Digital,22
+C00068,Pyme,Norte,Digital,38
+C00069,Personas,Norte,Agencia,37
+C00070,Premium,Lima,Agencia,50
+C00071,Pyme,Centro,Digital,59
+C00072,Personas,Sur,Convenio,33
+C00073,Personas,Centro,Convenio,52
+C00074,Pyme,Lima,Agencia,70
+C00075,Pyme,Norte,Agencia,49
+C00076,Pyme,Lima,Convenio,66
+C00077,Pyme,Lima,Digital,50
+C00078,Personas,Oriente,Call Center,38
+C00079,Personas,Lima,Digital,33
+C00080,Personas,Norte,Call Center,63
+C00081,Pyme,Norte,Digital,41
+C00082,Personas,Centro,Convenio,50
+C00083,Personas,Norte,Convenio,41
+C00084,Personas,Lima,Digital,68
+C00085,Personas,Lima,Agencia,37
+C00086,Personas,Norte,Convenio,60
+C00087,Pyme,Lima,Agencia,39
+C00088,Personas,Lima,Convenio,35
+C00089,Pyme,Lima,Agencia,29
+C00090,Personas,Lima,Digital,30
+C00091,Personas,Lima,Digital,64
+C00092,Pyme,Lima,Digital,51
+C00093,Pyme,Norte,Call Center,43
+C00094,Personas,Centro,Digital,50
+C00095,Pyme,Sur,Agencia,53
+C00096,Personas,Lima,Agencia,29
+C00097,Personas,Lima,Agencia,67
+C00098,Personas,Lima,Convenio,21
+C00099,Personas,Centro,Convenio,64
+C00100,Personas,Centro,Digital,55
+C00101,Personas,Lima,Call Center,31
+C00102,Personas,Oriente,Call Center,54
+C00103,Personas,Lima,Agencia,36
+C00104,Personas,Norte,Convenio,29
+C00105,Premium,Centro,Digital,52
+C00106,Personas,Sur,Digital,35
+C00107,Personas,Centro,Convenio,32
+C00108,Pyme,Sur,Agencia,53
+C00109,Personas,Lima,Call Center,65
+C00110,Personas,Sur,Convenio,34
+C00111,Personas,Lima,Digital,28
+C00112,Personas,Sur,Convenio,28
+C00113,Premium,Norte,Agencia,47
+C00114,Pyme,Sur,Agencia,32
+C00115,Personas,Norte,Agencia,21
+C00116,Pyme,Centro,Convenio,63
+C00117,Pyme,Norte,Digital,60
+C00118,Personas,Centro,Agencia,62
+C00119,Pyme,Lima,Agencia,31
+C00120,Personas,Lima,Agencia,59
+C00121,Pyme,Lima,Agencia,63
+C00122,Pyme,Lima,Digital,51
+C00123,Personas,Sur,Digital,37
+C00124,Personas,Lima,Digital,53
+C00125,Personas,Oriente,Call Center,52
+C00126,Personas,Lima,Digital,49
+C00127,Pyme,Lima,Digital,41
+C00128,Pyme,Sur,Convenio,41
+C00129,Personas,Centro,Digital,60
+C00130,Personas,Norte,Convenio,43
+C00131,Personas,Norte,Agencia,26
+C00132,Personas,Centro,Call Center,42
+C00133,Personas,Lima,Digital,70
+C00134,Personas,Oriente,Digital,58
+C00135,Premium,Oriente,Agencia,57
+C00136,Personas,Centro,Call Center,65
+C00137,Personas,Lima,Agencia,28
+C00138,Pyme,Centro,Digital,61
+C00139,Personas,Lima,Call Center,69
+C00140,Premium,Lima,Call Center,55
+C00141,Premium,Lima,Agencia,31
+C00142,Personas,Norte,Call Center,44
+C00143,Personas,Sur,Call Center,69
+C00144,Personas,Centro,Agencia,41
+C00145,Personas,Centro,Digital,22
+C00146,Personas,Lima,Agencia,60
+C00147,Personas,Lima,Digital,39
+C00148,Personas,Lima,Digital,59
+C00149,Personas,Oriente,Digital,48
+C00150,Personas,Lima,Digital,37
+C00151,Premium,Sur,Digital,26
+C00152,Personas,Norte,Digital,39
+C00153,Personas,Lima,Call Center,58
+C00154,Personas,Centro,Convenio,48
+C00155,Premium,Norte,Digital,22
+C00156,Personas,Sur,Convenio,58
+C00157,Pyme,Oriente,Agencia,57
+C00158,Pyme,Lima,Digital,24
+C00159,Personas,Lima,Digital,42
+C00160,Pyme,Norte,Agencia,46
+C00161,Personas,Oriente,Call Center,69
+C00162,Personas,Lima,Agencia,63
+C00163,Personas,Norte,Digital,56
+C00164,Personas,Centro,Digital,33
+C00165,Personas,Centro,Digital,52
+C00166,Pyme,Lima,Digital,37
+C00167,Personas,Centro,Digital,61
+C00168,Personas,Oriente,Digital,56
+C00169,Personas,Lima,Call Center,66
+C00170,Personas,Lima,Convenio,39
+C00171,Pyme,Oriente,Digital,55
+C00172,Personas,Lima,Convenio,66
+C00173,Personas,Sur,Digital,60
+C00174,Personas,Norte,Agencia,48
+C00175,Personas,Lima,Digital,21
+C00176,Personas,Sur,Agencia,62
+C00177,Pyme,Lima,Convenio,38
+C00178,Personas,Norte,Agencia,68
+C00179,Premium,Lima,Digital,60
+C00180,Personas,Norte,Agencia,53
+C00181,Personas,Lima,Digital,32
+C00182,Personas,Lima,Convenio,28
+C00183,Premium,Oriente,Agencia,44
+C00184,Pyme,Lima,Agencia,36
+C00185,Personas,Centro,Agencia,70
+C00186,Pyme,Lima,Agencia,24
+C00187,Pyme,Centro,Digital,58
+C00188,Personas,Lima,Agencia,64
+C00189,Personas,Oriente,Digital,47
+C00190,Personas,Norte,Agencia,29
+C00191,Personas,Lima,Call Center,67
+C00192,Pyme,Lima,Call Center,36
+C00193,Premium,Lima,Agencia,32
+C00194,Personas,Norte,Agencia,51
+C00195,Personas,Lima,Digital,44
+C00196,Personas,Sur,Call Center,34
+C00197,Pyme,Lima,Digital,65
+C00198,Pyme,Lima,Agencia,45
+C00199,Pyme,Norte,Digital,54
+C00200,Pyme,Centro,Digital,23
+C00201,Personas,Lima,Agencia,44
+C00202,Personas,Lima,Digital,62
+C00203,Personas,Lima,Agencia,29
+C00204,Pyme,Centro,Digital,46
+C00205,Personas,Centro,Digital,40
+C00206,Personas,Norte,Agencia,60
+C00207,Personas,Sur,Digital,30
+C00208,Pyme,Sur,Digital,39
+C00209,Personas,Norte,Agencia,23
+C00210,Personas,Sur,Digital,44
+C00211,Personas,Lima,Call Center,25
+C00212,Pyme,Lima,Digital,23
+C00213,Pyme,Lima,Digital,47
+C00214,Personas,Lima,Agencia,36
+C00215,Pyme,Norte,Digital,69
+C00216,Personas,Oriente,Digital,35
+C00217,Personas,Lima,Digital,55
+C00218,Pyme,Lima,Digital,32
+C00219,Personas,Norte,Call Center,61
+C00220,Pyme,Oriente,Digital,64
+C00221,Pyme,Lima,Call Center,46
+C00222,Personas,Norte,Convenio,67
+C00223,Personas,Lima,Agencia,54
+C00224,Personas,Lima,Convenio,43
+C00225,Personas,Oriente,Digital,51
+C00226,Personas,Oriente,Convenio,70
+C00227,Premium,Lima,Digital,40
+C00228,Personas,Oriente,Agencia,32
+C00229,Pyme,Centro,Agencia,43
+C00230,Personas,Sur,Digital,24
+C00231,Pyme,Norte,Agencia,43
+C00232,Personas,Norte,Agencia,68
+C00233,Personas,Norte,Digital,68
+C00234,Personas,Centro,Digital,21
+C00235,Personas,Lima,Agencia,45
+C00236,Pyme,Lima,Agencia,22
+C00237,Personas,Lima,Convenio,50
+C00238,Personas,Centro,Call Center,23
+C00239,Personas,Lima,Convenio,41
+C00240,Personas,Centro,Agencia,45
+C00241,Premium,Oriente,Digital,40
+C00242,Premium,Lima,Digital,69
+C00243,Premium,Centro,Call Center,42
+C00244,Personas,Lima,Agencia,41
+C00245,Personas,Sur,Digital,53
+C00246,Premium,Lima,Digital,58
+C00247,Personas,Centro,Convenio,35
+C00248,Premium,Sur,Agencia,66
+C00249,Premium,Oriente,Agencia,35
+C00250,Pyme,Centro,Agencia,66
+C00251,Personas,Norte,Digital,45
+C00252,Personas,Norte,Digital,41
+C00253,Pyme,Sur,Digital,44
+C00254,Personas,Norte,Digital,25
+C00255,Personas,Lima,Call Center,26
+C00256,Personas,Oriente,Digital,69
+C00257,Premium,Centro,Call Center,63
+C00258,Pyme,Centro,Convenio,68
+C00259,Personas,Lima,Digital,64
+C00260,Personas,Centro,Agencia,67
+C00261,Personas,Lima,Agencia,43
+C00262,Premium,Centro,Convenio,24
+C00263,Personas,Lima,Digital,47
+C00264,Personas,Centro,Agencia,38
+C00265,Pyme,Oriente,Agencia,41
+C00266,Pyme,Lima,Digital,48
+C00267,Pyme,Oriente,Digital,55
+C00268,Pyme,Lima,Agencia,42
+C00269,Personas,Sur,Agencia,60
+C00270,Personas,Sur,Digital,43
+C00271,Pyme,Norte,Agencia,23
+C00272,Pyme,Centro,Digital,60
+C00273,Pyme,Sur,Agencia,70
+C00274,Premium,Lima,Digital,30
+C00275,Personas,Lima,Convenio,45
+C00276,Personas,Centro,Digital,69
+C00277,Pyme,Sur,Digital,28
+C00278,Personas,Centro,Digital,31
+C00279,Pyme,Sur,Digital,25
+C00280,Pyme,Lima,Agencia,65
+C00281,Pyme,Sur,Digital,57
+C00282,Personas,Lima,Call Center,65
+C00283,Personas,Norte,Digital,58
+C00284,Personas,Lima,Digital,49
+C00285,Personas,Lima,Digital,25
+C00286,Personas,Lima,Digital,29
+C00287,Personas,Lima,Digital,68
+C00288,Personas,Centro,Digital,22
+C00289,Personas,Lima,Agencia,21
+C00290,Personas,Lima,Digital,60
+C00291,Personas,Lima,Agencia,50
+C00292,Personas,Lima,Agencia,31
+C00293,Pyme,Lima,Digital,48
+C00294,Personas,Lima,Agencia,64
+C00295,Personas,Norte,Convenio,32
+C00296,Personas,Centro,Agencia,59
+C00297,Pyme,Norte,Agencia,46
+C00298,Personas,Norte,Digital,33
+C00299,Personas,Lima,Call Center,28
+C00300,Personas,Sur,Call Center,48
+C00301,Personas,Norte,Agencia,50
+C00302,Personas,Norte,Convenio,29
+C00303,Personas,Lima,Digital,59
+C00304,Personas,Lima,Digital,51
+C00305,Pyme,Lima,Call Center,41
+C00306,Premium,Lima,Call Center,67
+C00307,Personas,Norte,Digital,54
+C00308,Personas,Norte,Digital,51
+C00309,Pyme,Norte,Digital,45
+C00310,Personas,Centro,Digital,32
+C00311,Personas,Sur,Call Center,21
+C00312,Personas,Centro,Agencia,42
+C00313,Personas,Oriente,Digital,60
+C00314,Premium,Lima,Digital,57
+C00315,Pyme,Lima,Digital,67
+C00316,Pyme,Lima,Digital,21
+C00317,Personas,Centro,Agencia,21
+C00318,Personas,Sur,Convenio,62
+C00319,Personas,Lima,Call Center,62
+C00320,Personas,Oriente,Digital,41
+C00321,Personas,Lima,Convenio,35
+C00322,Pyme,Oriente,Call Center,37
+C00323,Pyme,Lima,Call Center,42
+C00324,Personas,Lima,Agencia,58
+C00325,Premium,Norte,Digital,55
+C00326,Pyme,Lima,Digital,65
+C00327,Personas,Lima,Digital,36
+C00328,Personas,Lima,Digital,28
+C00329,Personas,Sur,Digital,67
+C00330,Personas,Norte,Agencia,37
+C00331,Personas,Lima,Agencia,37
+C00332,Pyme,Norte,Agencia,46
+C00333,Personas,Centro,Digital,33
+C00334,Personas,Lima,Convenio,37
+C00335,Personas,Lima,Convenio,58
+C00336,Personas,Lima,Call Center,37
+C00337,Pyme,Lima,Convenio,68
+C00338,Pyme,Centro,Agencia,34
+C00339,Personas,Lima,Convenio,65
+C00340,Personas,Norte,Digital,26
+C00341,Personas,Centro,Digital,55
+C00342,Personas,Lima,Digital,66
+C00343,Personas,Norte,Digital,34
+C00344,Personas,Lima,Digital,67
+C00345,Personas,Oriente,Agencia,28
+C00346,Personas,Norte,Call Center,35
+C00347,Personas,Sur,Agencia,47
+C00348,Personas,Norte,Digital,33
+C00349,Personas,Lima,Call Center,69
+C00350,Personas,Centro,Agencia,51
+C00351,Personas,Oriente,Digital,55
+C00352,Pyme,Norte,Agencia,26
+C00353,Pyme,Sur,Digital,25
+C00354,Personas,Sur,Digital,42
+C00355,Personas,Lima,Convenio,69
+C00356,Personas,Lima,Digital,43
+C00357,Personas,Norte,Agencia,45
+C00358,Personas,Lima,Convenio,54
+C00359,Premium,Sur,Agencia,46
+C00360,Personas,Oriente,Digital,67
+C00361,Personas,Lima,Digital,25
+C00362,Personas,Lima,Digital,46
+C00363,Personas,Sur,Agencia,40
+C00364,Personas,Lima,Agencia,26
+C00365,Premium,Sur,Digital,26
+C00366,Personas,Lima,Convenio,70
+C00367,Premium,Centro,Agencia,38
+C00368,Premium,Lima,Digital,24
+C00369,Personas,Norte,Agencia,37
+C00370,Personas,Norte,Agencia,34
+C00371,Personas,Norte,Digital,34
+C00372,Personas,Lima,Digital,33
+C00373,Personas,Centro,Call Center,27
+C00374,Pyme,Sur,Agencia,64
+C00375,Personas,Lima,Agencia,35
+C00376,Personas,Lima,Agencia,39
+C00377,Pyme,Lima,Digital,63
+C00378,Personas,Centro,Digital,67
+C00379,Pyme,Norte,Agencia,64
+C00380,Personas,Norte,Digital,55
+C00381,Personas,Lima,Digital,37
+C00382,Pyme,Lima,Call Center,55
+C00383,Personas,Norte,Convenio,39
+C00384,Pyme,Norte,Call Center,40
+C00385,Pyme,Oriente,Convenio,56
+C00386,Pyme,Lima,Digital,55
+C00387,Personas,Centro,Convenio,52
+C00388,Personas,Lima,Digital,68
+C00389,Pyme,Lima,Convenio,64
+C00390,Pyme,Centro,Convenio,60
+C00391,Premium,Centro,Agencia,44
+C00392,Personas,Oriente,Convenio,37
+C00393,Personas,Lima,Agencia,27
+C00394,Pyme,Lima,Digital,63
+C00395,Personas,Centro,Agencia,70
+C00396,Premium,Norte,Agencia,21
+C00397,Pyme,Lima,Digital,55
+C00398,Personas,Lima,Agencia,52
+C00399,Pyme,Lima,Convenio,56
+C00400,Pyme,Sur,Digital,33
+C00401,Personas,Lima,Call Center,26
+C00402,Premium,Lima,Convenio,34
+C00403,Personas,Lima,Convenio,57
+C00404,Pyme,Lima,Convenio,68
+C00405,Personas,Lima,Agencia,35
+C00406,Pyme,Norte,Convenio,67
+C00407,Personas,Lima,Call Center,24
+C00408,Personas,Sur,Digital,60
+C00409,Premium,Lima,Agencia,36
+C00410,Personas,Norte,Agencia,48
+C00411,Personas,Sur,Digital,36
+C00412,Premium,Centro,Agencia,24
+C00413,Premium,Norte,Agencia,65
+C00414,Personas,Lima,Digital,46
+C00415,Personas,Lima,Agencia,48
+C00416,Personas,Centro,Call Center,52
+C00417,Personas,Oriente,Agencia,65
+C00418,Personas,Centro,Digital,22
+C00419,Pyme,Norte,Digital,51
+C00420,Pyme,Centro,Digital,23
+C00421,Pyme,Norte,Convenio,28
+C00422,Pyme,Lima,Digital,44
+C00423,Personas,Norte,Agencia,35
+C00424,Personas,Oriente,Digital,63
+C00425,Personas,Lima,Digital,51
+C00426,Personas,Centro,Call Center,29
+C00427,Personas,Lima,Agencia,59
+C00428,Pyme,Norte,Digital,65
+C00429,Personas,Lima,Agencia,22
+C00430,Personas,Norte,Digital,28
+C00431,Personas,Centro,Agencia,27
+C00432,Pyme,Lima,Agencia,64
+C00433,Personas,Centro,Digital,59
+C00434,Personas,Sur,Digital,62
+C00435,Personas,Oriente,Digital,36
+C00436,Pyme,Lima,Convenio,55
+C00437,Personas,Lima,Convenio,50
+C00438,Pyme,Lima,Digital,30
+C00439,Pyme,Oriente,Call Center,58
+C00440,Personas,Oriente,Digital,38
+C00441,Personas,Norte,Digital,70
+C00442,Premium,Sur,Call Center,25
+C00443,Personas,Norte,Convenio,49
+C00444,Personas,Norte,Convenio,59
+C00445,Pyme,Lima,Agencia,54
+C00446,Premium,Centro,Digital,63
+C00447,Premium,Lima,Call Center,65
+C00448,Pyme,Sur,Digital,43
+C00449,Personas,Sur,Agencia,25
+C00450,Personas,Centro,Digital,50
+C00451,Pyme,Lima,Agencia,26
+C00452,Personas,Lima,Digital,66
+C00453,Personas,Lima,Digital,64
+C00454,Premium,Lima,Convenio,24
+C00455,Personas,Lima,Digital,49
+C00456,Personas,Oriente,Agencia,43
+C00457,Personas,Norte,Digital,26
+C00458,Personas,Lima,Digital,52
+C00459,Personas,Lima,Digital,62
+C00460,Personas,Lima,Digital,38
+C00461,Personas,Norte,Convenio,35
+C00462,Personas,Norte,Digital,60
+C00463,Pyme,Oriente,Convenio,52
+C00464,Personas,Norte,Agencia,29
+C00465,Premium,Oriente,Agencia,57
+C00466,Personas,Sur,Agencia,30
+C00467,Personas,Lima,Agencia,40
+C00468,Pyme,Oriente,Call Center,26
+C00469,Personas,Lima,Digital,68
+C00470,Premium,Sur,Digital,23
+C00471,Personas,Lima,Convenio,62
+C00472,Premium,Sur,Convenio,31
+C00473,Personas,Sur,Convenio,63
+C00474,Pyme,Sur,Digital,37
+C00475,Personas,Sur,Call Center,52
+C00476,Premium,Lima,Agencia,24
+C00477,Personas,Lima,Agencia,24
+C00478,Personas,Lima,Digital,37
+C00479,Premium,Lima,Agencia,61
+C00480,Personas,Centro,Digital,39
+C00481,Personas,Lima,Digital,25
+C00482,Pyme,Oriente,Convenio,52
+C00483,Personas,Centro,Digital,42
+C00484,Personas,Sur,Digital,26
+C00485,Personas,Lima,Digital,55
+C00486,Premium,Sur,Convenio,42
+C00487,Personas,Oriente,Agencia,21
+C00488,Personas,Norte,Digital,40
+C00489,Premium,Norte,Call Center,42
+C00490,Pyme,Centro,Call Center,68
+C00491,Personas,Lima,Digital,31
+C00492,Personas,Norte,Agencia,33
+C00493,Personas,Lima,Call Center,62
+C00494,Personas,Lima,Agencia,23
+C00495,Personas,Lima,Digital,29
+C00496,Personas,Lima,Convenio,32
+C00497,Personas,Lima,Agencia,43
+C00498,Personas,Lima,Digital,34
+C00499,Premium,Oriente,Agencia,53
+C00500,Premium,Norte,Digital,38
+C00501,Pyme,Oriente,Digital,69
+C00502,Personas,Lima,Call Center,61
+C00503,Personas,Lima,Digital,29
+C00504,Pyme,Norte,Digital,43
+C00505,Pyme,Lima,Agencia,30
+C00506,Personas,Lima,Digital,39
+C00507,Premium,Centro,Convenio,67
+C00508,Pyme,Lima,Digital,25
+C00509,Premium,Norte,Digital,67
+C00510,Pyme,Centro,Digital,43
+C00511,Personas,Lima,Digital,50
+C00512,Personas,Lima,Digital,45
+C00513,Premium,Sur,Agencia,48
+C00514,Pyme,Norte,Convenio,54
+C00515,Personas,Lima,Digital,65
+C00516,Personas,Oriente,Agencia,68
+C00517,Personas,Lima,Agencia,67
+C00518,Pyme,Centro,Call Center,45
+C00519,Premium,Oriente,Agencia,30
+C00520,Personas,Lima,Digital,34
+C00521,Personas,Lima,Digital,62
+C00522,Personas,Lima,Agencia,66
+C00523,Premium,Lima,Call Center,50
+C00524,Pyme,Lima,Digital,61
+C00525,Pyme,Centro,Digital,45
+C00526,Personas,Lima,Convenio,34
+C00527,Personas,Norte,Call Center,55
+C00528,Personas,Oriente,Convenio,68
+C00529,Personas,Sur,Call Center,54
+C00530,Pyme,Norte,Digital,30
+C00531,Pyme,Lima,Agencia,55
+C00532,Premium,Norte,Agencia,31
+C00533,Premium,Norte,Digital,31
+C00534,Personas,Lima,Agencia,41
+C00535,Pyme,Lima,Agencia,41
+C00536,Premium,Sur,Digital,42
+C00537,Pyme,Lima,Call Center,65
+C00538,Personas,Lima,Agencia,27
+C00539,Personas,Lima,Convenio,37
+C00540,Personas,Lima,Digital,22
+C00541,Premium,Sur,Digital,32
+C00542,Personas,Centro,Agencia,62
+C00543,Personas,Centro,Digital,38
+C00544,Pyme,Lima,Agencia,31
+C00545,Personas,Lima,Call Center,36
+C00546,Personas,Norte,Digital,69
+C00547,Personas,Lima,Agencia,38
+C00548,Pyme,Lima,Agencia,55
+C00549,Personas,Centro,Digital,46
+C00550,Pyme,Lima,Convenio,36
+C00551,Personas,Norte,Call Center,26
+C00552,Pyme,Lima,Agencia,64
+C00553,Personas,Lima,Agencia,63
+C00554,Personas,Lima,Agencia,67
+C00555,Pyme,Oriente,Convenio,67
+C00556,Personas,Sur,Agencia,68
+C00557,Personas,Oriente,Agencia,62
+C00558,Personas,Norte,Convenio,32
+C00559,Pyme,Lima,Digital,33
+C00560,Personas,Norte,Call Center,24
+C00561,Pyme,Norte,Digital,59
+C00562,Personas,Sur,Digital,22
+C00563,Personas,Lima,Digital,46
+C00564,Personas,Norte,Convenio,47
+C00565,Personas,Lima,Convenio,47
+C00566,Personas,Lima,Agencia,35
+C00567,Personas,Centro,Agencia,28
+C00568,Personas,Norte,Agencia,27
+C00569,Premium,Lima,Convenio,67
+C00570,Personas,Lima,Agencia,66
+C00571,Personas,Norte,Digital,60
+C00572,Pyme,Sur,Digital,32
+C00573,Personas,Sur,Call Center,33
+C00574,Personas,Oriente,Agencia,63
+C00575,Pyme,Sur,Digital,37
+C00576,Premium,Lima,Digital,37
+C00577,Personas,Centro,Call Center,56
+C00578,Premium,Lima,Digital,41
+C00579,Personas,Lima,Agencia,28
+C00580,Personas,Sur,Convenio,25
+C00581,Personas,Lima,Agencia,46
+C00582,Premium,Oriente,Digital,36
+C00583,Personas,Norte,Agencia,56
+C00584,Personas,Centro,Call Center,48
+C00585,Personas,Centro,Agencia,49
+C00586,Personas,Sur,Convenio,67
+C00587,Personas,Centro,Digital,32
+C00588,Personas,Norte,Agencia,57
+C00589,Personas,Lima,Agencia,50
+C00590,Personas,Norte,Convenio,43
+C00591,Personas,Lima,Digital,36
+C00592,Personas,Centro,Call Center,34
+C00593,Personas,Norte,Agencia,30
+C00594,Personas,Centro,Digital,27
+C00595,Pyme,Lima,Digital,65
+C00596,Personas,Lima,Convenio,57
+C00597,Pyme,Centro,Digital,49
+C00598,Personas,Lima,Digital,23
+C00599,Personas,Lima,Digital,35
+C00600,Personas,Lima,Convenio,56
+C00601,Personas,Oriente,Agencia,67
+C00602,Personas,Centro,Call Center,66
+C00603,Personas,Lima,Digital,39
+C00604,Personas,Lima,Agencia,33
+C00605,Personas,Lima,Agencia,62
+C00606,Personas,Centro,Call Center,41
+C00607,Personas,Centro,Convenio,57
+C00608,Personas,Lima,Digital,47
+C00609,Personas,Lima,Agencia,49
+C00610,Pyme,Lima,Digital,40
+C00611,Personas,Centro,Agencia,45
+C00612,Pyme,Centro,Digital,26
+C00613,Personas,Lima,Digital,56
+C00614,Personas,Lima,Digital,22
+C00615,Pyme,Lima,Agencia,42
+C00616,Premium,Oriente,Digital,52
+C00617,Personas,Lima,Agencia,36
+C00618,Personas,Centro,Digital,38
+C00619,Pyme,Norte,Digital,25
+C00620,Pyme,Lima,Call Center,56
+C00621,Personas,Lima,Digital,50
+C00622,Personas,Lima,Agencia,65
+C00623,Personas,Norte,Agencia,39
+C00624,Personas,Centro,Digital,43
+C00625,Personas,Centro,Digital,54
+C00626,Personas,Norte,Digital,33
+C00627,Personas,Lima,Convenio,63
+C00628,Pyme,Oriente,Agencia,49
+C00629,Personas,Sur,Agencia,56
+C00630,Personas,Lima,Agencia,42
+C00631,Pyme,Oriente,Digital,67
+C00632,Pyme,Norte,Digital,56
+C00633,Personas,Norte,Call Center,29
+C00634,Personas,Centro,Digital,59
+C00635,Personas,Sur,Digital,39
+C00636,Personas,Centro,Digital,58
+C00637,Personas,Lima,Agencia,26
+C00638,Personas,Lima,Convenio,67
+C00639,Personas,Oriente,Digital,35
+C00640,Personas,Lima,Agencia,40
+C00641,Personas,Lima,Digital,29
+C00642,Personas,Lima,Convenio,52
+C00643,Personas,Lima,Digital,24
+C00644,Personas,Norte,Digital,70
+C00645,Personas,Oriente,Agencia,38
+C00646,Pyme,Lima,Agencia,25
+C00647,Personas,Lima,Agencia,40
+C00648,Pyme,Lima,Digital,43
+C00649,Pyme,Sur,Digital,31
+C00650,Personas,Centro,Digital,57
+C00651,Personas,Lima,Digital,42
+C00652,Personas,Sur,Agencia,24
+C00653,Personas,Sur,Digital,49
+C00654,Pyme,Sur,Digital,64
+C00655,Personas,Oriente,Agencia,54
+C00656,Personas,Lima,Convenio,33
+C00657,Personas,Centro,Agencia,62
+C00658,Personas,Norte,Digital,29
+C00659,Personas,Sur,Digital,62
+C00660,Personas,Centro,Convenio,51
+C00661,Personas,Centro,Digital,27
+C00662,Premium,Centro,Digital,24
+C00663,Personas,Lima,Agencia,39
+C00664,Personas,Norte,Agencia,62
+C00665,Personas,Oriente,Agencia,50
+C00666,Personas,Oriente,Digital,51
+C00667,Personas,Lima,Digital,55
+C00668,Personas,Lima,Convenio,41
+C00669,Personas,Lima,Digital,51
+C00670,Personas,Centro,Agencia,39
+C00671,Personas,Sur,Agencia,51
+C00672,Pyme,Lima,Agencia,52
+C00673,Personas,Norte,Digital,22
+C00674,Personas,Sur,Digital,30
+C00675,Personas,Centro,Agencia,22
+C00676,Premium,Norte,Convenio,22
+C00677,Personas,Norte,Convenio,44
+C00678,Personas,Norte,Digital,37
+C00679,Premium,Lima,Digital,52
+C00680,Pyme,Norte,Convenio,36
+C00681,Pyme,Centro,Agencia,36
+C00682,Personas,Sur,Convenio,66
+C00683,Personas,Centro,Digital,59
+C00684,Pyme,Centro,Agencia,51
+C00685,Premium,Lima,Agencia,63
+C00686,Personas,Norte,Agencia,44
+C00687,Personas,Lima,Digital,21
+C00688,Personas,Lima,Digital,31
+C00689,Pyme,Centro,Agencia,41
+C00690,Personas,Oriente,Digital,24
+C00691,Personas,Lima,Agencia,27
+C00692,Personas,Lima,Convenio,46
+C00693,Personas,Sur,Digital,67
+C00694,Personas,Lima,Call Center,70
+C00695,Personas,Norte,Digital,32
+C00696,Personas,Centro,Agencia,51
+C00697,Personas,Norte,Convenio,37
+C00698,Personas,Lima,Digital,53
+C00699,Personas,Lima,Digital,31
+C00700,Personas,Sur,Agencia,48
+C00701,Personas,Norte,Digital,52
+C00702,Personas,Lima,Agencia,21
+C00703,Personas,Centro,Convenio,67
+C00704,Personas,Lima,Agencia,48
+C00705,Personas,Centro,Digital,62
+C00706,Premium,Lima,Agencia,27
+C00707,Personas,Oriente,Agencia,22
+C00708,Pyme,Lima,Digital,62
+C00709,Personas,Lima,Agencia,44
+C00710,Pyme,Lima,Agencia,24
+C00711,Pyme,Lima,Agencia,64
+C00712,Personas,Sur,Digital,39
+C00713,Personas,Oriente,Agencia,46
+C00714,Personas,Lima,Digital,31
+C00715,Personas,Lima,Digital,60
+C00716,Premium,Centro,Convenio,70
+C00717,Pyme,Sur,Agencia,63
+C00718,Premium,Norte,Digital,31
+C00719,Personas,Lima,Digital,65
+C00720,Pyme,Lima,Digital,23
+C00721,Premium,Centro,Digital,32
+C00722,Personas,Lima,Digital,23
+C00723,Personas,Norte,Digital,62
+C00724,Pyme,Lima,Agencia,47
+C00725,Personas,Sur,Agencia,69
+C00726,Pyme,Lima,Agencia,22
+C00727,Personas,Norte,Agencia,69
+C00728,Pyme,Norte,Digital,36
+C00729,Personas,Centro,Convenio,22
+C00730,Personas,Lima,Call Center,50
+C00731,Personas,Norte,Call Center,40
+C00732,Pyme,Norte,Call Center,58
+C00733,Pyme,Norte,Convenio,48
+C00734,Personas,Norte,Agencia,45
+C00735,Personas,Centro,Digital,52
+C00736,Pyme,Sur,Agencia,30
+C00737,Personas,Lima,Agencia,62
+C00738,Pyme,Sur,Agencia,60
+C00739,Personas,Norte,Agencia,53
+C00740,Personas,Lima,Digital,33
+C00741,Personas,Lima,Digital,61
+C00742,Personas,Lima,Convenio,62
+C00743,Pyme,Sur,Agencia,67
+C00744,Personas,Centro,Agencia,57
+C00745,Personas,Sur,Digital,36
+C00746,Pyme,Norte,Digital,65
+C00747,Personas,Lima,Convenio,42
+C00748,Personas,Lima,Agencia,40
+C00749,Premium,Lima,Call Center,70
+C00750,Personas,Lima,Agencia,63
+C00751,Personas,Lima,Agencia,47
+C00752,Premium,Lima,Digital,61
+C00753,Personas,Norte,Agencia,36
+C00754,Personas,Centro,Agencia,54
+C00755,Personas,Oriente,Agencia,52
+C00756,Pyme,Oriente,Agencia,46
+C00757,Personas,Centro,Convenio,45
+C00758,Personas,Lima,Digital,22
+C00759,Pyme,Centro,Call Center,32
+C00760,Pyme,Sur,Digital,60
+C00761,Personas,Lima,Agencia,29
+C00762,Personas,Lima,Digital,32
+C00763,Personas,Sur,Digital,46
+C00764,Pyme,Lima,Agencia,29
+C00765,Personas,Norte,Digital,30
+C00766,Personas,Norte,Agencia,52
+C00767,Pyme,Lima,Convenio,54
+C00768,Pyme,Lima,Digital,68
+C00769,Personas,Lima,Call Center,40
+C00770,Pyme,Lima,Digital,59
+C00771,Personas,Lima,Agencia,22
+C00772,Pyme,Sur,Digital,21
+C00773,Personas,Lima,Digital,56
+C00774,Personas,Norte,Digital,44
+C00775,Pyme,Lima,Digital,47
+C00776,Personas,Oriente,Digital,22
+C00777,Personas,Lima,Agencia,51
+C00778,Pyme,Lima,Convenio,34
+C00779,Pyme,Sur,Call Center,22
+C00780,Personas,Sur,Agencia,49
+C00781,Pyme,Lima,Digital,35
+C00782,Personas,Sur,Digital,32
+C00783,Personas,Norte,Digital,57
+C00784,Personas,Norte,Digital,48
+C00785,Personas,Lima,Agencia,40
+C00786,Premium,Lima,Agencia,59
+C00787,Personas,Centro,Digital,44
+C00788,Personas,Norte,Digital,41
+C00789,Personas,Lima,Call Center,30
+C00790,Premium,Centro,Call Center,66
+C00791,Personas,Centro,Digital,34
+C00792,Personas,Lima,Convenio,57
+C00793,Personas,Norte,Convenio,38
+C00794,Personas,Lima,Digital,44
+C00795,Personas,Centro,Digital,34
+C00796,Pyme,Centro,Agencia,54
+C00797,Premium,Oriente,Convenio,32
+C00798,Personas,Lima,Convenio,42
+C00799,Pyme,Lima,Digital,26
+C00800,Premium,Lima,Digital,56
+C00801,Pyme,Lima,Agencia,65
+C00802,Personas,Lima,Agencia,56
+C00803,Personas,Oriente,Digital,42
+C00804,Personas,Lima,Convenio,34
+C00805,Personas,Lima,Agencia,36
+C00806,Pyme,Centro,Call Center,56
+C00807,Premium,Lima,Convenio,45
+C00808,Premium,Centro,Agencia,52
+C00809,Personas,Lima,Agencia,53
+C00810,Personas,Norte,Agencia,65
+C00811,Premium,Lima,Digital,56
+C00812,Pyme,Lima,Agencia,40
+C00813,Personas,Oriente,Digital,38
+C00814,Premium,Lima,Agencia,58
+C00815,Pyme,Norte,Digital,23
+C00816,Personas,Lima,Digital,43
+C00817,Personas,Lima,Digital,52
+C00818,Personas,Sur,Digital,65
+C00819,Personas,Lima,Agencia,36
+C00820,Personas,Centro,Agencia,25
+C00821,Pyme,Oriente,Agencia,24
+C00822,Personas,Norte,Digital,41
+C00823,Personas,Oriente,Digital,60
+C00824,Personas,Lima,Digital,34
+C00825,Personas,Lima,Digital,59
+C00826,Premium,Lima,Convenio,51
+C00827,Personas,Centro,Digital,34
+C00828,Personas,Oriente,Digital,26
+C00829,Pyme,Lima,Digital,32
+C00830,Personas,Centro,Digital,36
+C00831,Personas,Lima,Agencia,37
+C00832,Personas,Norte,Agencia,65
+C00833,Personas,Norte,Digital,43
+C00834,Personas,Oriente,Digital,34
+C00835,Personas,Norte,Digital,27
+C00836,Personas,Lima,Digital,66
+C00837,Premium,Lima,Digital,52
+C00838,Personas,Lima,Convenio,35
+C00839,Personas,Lima,Agencia,64
+C00840,Personas,Lima,Agencia,37
+C00841,Personas,Sur,Digital,61
+C00842,Pyme,Norte,Agencia,67
+C00843,Personas,Norte,Agencia,64
+C00844,Premium,Lima,Agencia,54
+C00845,Personas,Sur,Agencia,25
+C00846,Personas,Centro,Digital,65
+C00847,Personas,Lima,Agencia,47
+C00848,Premium,Centro,Digital,43
+C00849,Personas,Norte,Convenio,60
+C00850,Personas,Lima,Agencia,34
+C00851,Personas,Norte,Agencia,35
+C00852,Pyme,Norte,Digital,63
+C00853,Personas,Lima,Agencia,53
+C00854,Pyme,Oriente,Digital,51
+C00855,Personas,Sur,Digital,55
+C00856,Personas,Centro,Digital,37
+C00857,Personas,Norte,Agencia,48
+C00858,Personas,Lima,Digital,39
+C00859,Personas,Centro,Digital,66
+C00860,Personas,Norte,Convenio,43
+C00861,Pyme,Lima,Digital,52
+C00862,Personas,Norte,Agencia,60
+C00863,Personas,Sur,Digital,33
+C00864,Personas,Norte,Digital,40
+C00865,Personas,Lima,Call Center,55
+C00866,Personas,Sur,Digital,25
+C00867,Personas,Lima,Agencia,29
+C00868,Personas,Lima,Agencia,49
+C00869,Pyme,Lima,Agencia,26
+C00870,Premium,Lima,Agencia,45
+C00871,Personas,Centro,Digital,51
+C00872,Personas,Norte,Digital,42
+C00873,Personas,Lima,Agencia,22
+C00874,Personas,Sur,Agencia,65
+C00875,Personas,Sur,Call Center,25
+C00876,Personas,Sur,Call Center,47
+C00877,Pyme,Lima,Call Center,45
+C00878,Pyme,Norte,Agencia,28
+C00879,Personas,Oriente,Digital,21
+C00880,Personas,Centro,Call Center,40
+C00881,Personas,Lima,Agencia,64
+C00882,Pyme,Lima,Digital,43
+C00883,Personas,Norte,Convenio,52
+C00884,Personas,Oriente,Convenio,31
+C00885,Pyme,Norte,Agencia,59
+C00886,Personas,Norte,Digital,67
+C00887,Pyme,Lima,Digital,44
+C00888,Personas,Centro,Call Center,31
+C00889,Personas,Sur,Convenio,49
+C00890,Personas,Lima,Digital,46
+C00891,Pyme,Centro,Digital,36
+C00892,Pyme,Oriente,Convenio,55
+C00893,Pyme,Lima,Digital,40
+C00894,Personas,Norte,Agencia,66
+C00895,Pyme,Lima,Convenio,23
+C00896,Personas,Sur,Digital,21
+C00897,Personas,Norte,Agencia,67
+C00898,Pyme,Centro,Digital,21
+C00899,Personas,Sur,Digital,37
+C00900,Personas,Lima,Call Center,22
+C00901,Personas,Oriente,Agencia,49
+C00902,Personas,Norte,Convenio,40
+C00903,Personas,Lima,Agencia,26
+C00904,Personas,Centro,Digital,28
+C00905,Personas,Sur,Digital,49
+C00906,Pyme,Lima,Digital,68
+C00907,Pyme,Sur,Digital,53
+C00908,Personas,Oriente,Digital,23
+C00909,Personas,Lima,Digital,55
+C00910,Personas,Oriente,Agencia,25
+C00911,Personas,Lima,Agencia,47
+C00912,Personas,Lima,Agencia,64
+C00913,Personas,Lima,Agencia,32
+C00914,Personas,Sur,Digital,40
+C00915,Personas,Centro,Digital,65
+C00916,Personas,Lima,Agencia,40
+C00917,Personas,Lima,Agencia,29
+C00918,Premium,Norte,Digital,59
+C00919,Pyme,Lima,Call Center,24
+C00920,Personas,Sur,Call Center,39
+C00921,Pyme,Sur,Agencia,58
+C00922,Personas,Norte,Digital,47
+C00923,Pyme,Oriente,Call Center,65
+C00924,Pyme,Lima,Agencia,63
+C00925,Personas,Oriente,Call Center,33
+C00926,Personas,Centro,Call Center,33
+C00927,Personas,Centro,Call Center,42
+C00928,Personas,Lima,Agencia,48
+C00929,Personas,Sur,Digital,67
+C00930,Personas,Lima,Agencia,65
+C00931,Personas,Lima,Agencia,42
+C00932,Pyme,Lima,Agencia,63
+C00933,Premium,Norte,Digital,39
+C00934,Personas,Norte,Digital,28
+C00935,Personas,Centro,Convenio,28
+C00936,Personas,Sur,Agencia,62
+C00937,Personas,Lima,Convenio,46
+C00938,Premium,Centro,Call Center,68
+C00939,Personas,Lima,Agencia,46
+C00940,Personas,Sur,Agencia,43
+C00941,Personas,Sur,Convenio,63
+C00942,Personas,Norte,Agencia,33
+C00943,Pyme,Centro,Agencia,48
+C00944,Pyme,Lima,Digital,29
+C00945,Personas,Norte,Agencia,40
+C00946,Personas,Sur,Agencia,39
+C00947,Personas,Norte,Digital,68
+C00948,Premium,Lima,Digital,59
+C00949,Pyme,Norte,Digital,32
+C00950,Personas,Sur,Digital,35
+C00951,Personas,Lima,Digital,51
+C00952,Pyme,Lima,Agencia,34
+C00953,Personas,Centro,Convenio,31
+C00954,Premium,Sur,Agencia,46
+C00955,Personas,Lima,Digital,62
+C00956,Personas,Lima,Digital,47
+C00957,Personas,Lima,Agencia,31
+C00958,Personas,Lima,Digital,58
+C00959,Personas,Norte,Call Center,54
+C00960,Pyme,Centro,Agencia,63
+C00961,Personas,Centro,Call Center,39
+C00962,Personas,Norte,Digital,26
+C00963,Personas,Lima,Agencia,66
+C00964,Personas,Sur,Digital,58
+C00965,Personas,Norte,Convenio,69
+C00966,Personas,Oriente,Agencia,62
+C00967,Pyme,Centro,Digital,48
+C00968,Personas,Lima,Digital,21
+C00969,Personas,Centro,Digital,55
+C00970,Personas,Lima,Agencia,60
+C00971,Pyme,Centro,Digital,28
+C00972,Premium,Lima,Agencia,67
+C00973,Pyme,Lima,Digital,27
+C00974,Personas,Sur,Agencia,31
+C00975,Personas,Lima,Call Center,59
+C00976,Personas,Sur,Call Center,24
+C00977,Personas,Lima,Call Center,45
+C00978,Personas,Centro,Digital,32
+C00979,Personas,Centro,Digital,46
+C00980,Personas,Norte,Agencia,58
+C00981,Personas,Lima,Digital,66
+C00982,Pyme,Lima,Agencia,32
+C00983,Personas,Lima,Digital,63
+C00984,Personas,Lima,Digital,57
+C00985,Pyme,Centro,Digital,66
+C00986,Personas,Oriente,Convenio,44
+C00987,Pyme,Sur,Digital,36
+C00988,Personas,Centro,Agencia,33
+C00989,Personas,Sur,Digital,45
+C00990,Pyme,Centro,Agencia,24
+C00991,Pyme,Lima,Digital,31
+C00992,Pyme,Oriente,Convenio,52
+C00993,Personas,Centro,Convenio,69
+C00994,Personas,Norte,Digital,27
+C00995,Personas,Lima,Convenio,66
+C00996,Personas,Lima,Convenio,31
+C00997,Premium,Norte,Call Center,48
+C00998,Personas,Sur,Call Center,61
+C00999,Premium,Norte,Digital,43
+C01000,Personas,Lima,Agencia,65
+C01001,Personas,Oriente,Digital,43
+C01002,Personas,Lima,Digital,70
+C01003,Pyme,Lima,Convenio,48
+C01004,Pyme,Lima,Digital,63
+C01005,Pyme,Centro,Agencia,67
+C01006,Pyme,Oriente,Call Center,46
+C01007,Pyme,Lima,Convenio,45
+C01008,Pyme,Sur,Convenio,49
+C01009,Personas,Lima,Digital,39
+C01010,Personas,Oriente,Digital,53
+C01011,Personas,Centro,Digital,56
+C01012,Premium,Sur,Digital,34
+C01013,Premium,Lima,Digital,34
+C01014,Personas,Oriente,Digital,55
+C01015,Pyme,Centro,Call Center,50
+C01016,Premium,Lima,Agencia,48
+C01017,Personas,Sur,Digital,37
+C01018,Personas,Lima,Agencia,23
+C01019,Premium,Sur,Digital,36
+C01020,Personas,Lima,Digital,66
+C01021,Pyme,Centro,Call Center,50
+C01022,Personas,Norte,Agencia,49
+C01023,Premium,Lima,Call Center,65
+C01024,Premium,Lima,Digital,35
+C01025,Premium,Lima,Call Center,66
+C01026,Personas,Norte,Agencia,45
+C01027,Pyme,Lima,Agencia,58
+C01028,Pyme,Norte,Agencia,62
+C01029,Personas,Lima,Convenio,67
+C01030,Pyme,Lima,Agencia,58
+C01031,Personas,Centro,Agencia,43
+C01032,Personas,Lima,Convenio,45
+C01033,Personas,Oriente,Call Center,62
+C01034,Personas,Sur,Agencia,27
+C01035,Personas,Centro,Agencia,42
+C01036,Pyme,Norte,Digital,37
+C01037,Personas,Sur,Digital,38
+C01038,Pyme,Lima,Agencia,69
+C01039,Personas,Lima,Convenio,61
+C01040,Personas,Lima,Convenio,30
+C01041,Personas,Sur,Digital,30
+C01042,Pyme,Lima,Agencia,27
+C01043,Personas,Norte,Digital,68
+C01044,Personas,Oriente,Convenio,70
+C01045,Pyme,Sur,Convenio,58
+C01046,Personas,Norte,Agencia,47
+C01047,Personas,Lima,Call Center,53
+C01048,Personas,Sur,Agencia,21
+C01049,Pyme,Norte,Agencia,64
+C01050,Personas,Lima,Digital,54
+C01051,Pyme,Lima,Agencia,24
+C01052,Personas,Oriente,Agencia,37
+C01053,Premium,Centro,Agencia,24
+C01054,Pyme,Sur,Digital,63
+C01055,Premium,Sur,Convenio,46
+C01056,Personas,Norte,Digital,24
+C01057,Pyme,Norte,Agencia,21
+C01058,Personas,Lima,Agencia,27
+C01059,Personas,Lima,Agencia,50
+C01060,Personas,Lima,Agencia,70
+C01061,Pyme,Centro,Digital,29
+C01062,Premium,Norte,Digital,55
+C01063,Pyme,Sur,Agencia,28
+C01064,Personas,Lima,Agencia,44
+C01065,Personas,Norte,Digital,39
+C01066,Pyme,Centro,Agencia,56
+C01067,Personas,Norte,Agencia,70
+C01068,Personas,Centro,Agencia,63
+C01069,Personas,Lima,Call Center,47
+C01070,Personas,Norte,Digital,52
+C01071,Personas,Lima,Digital,34
+C01072,Personas,Lima,Call Center,38
+C01073,Personas,Norte,Agencia,48
+C01074,Personas,Centro,Agencia,49
+C01075,Premium,Oriente,Call Center,36
+C01076,Personas,Norte,Call Center,55
+C01077,Personas,Centro,Convenio,67
+C01078,Pyme,Norte,Agencia,51
+C01079,Personas,Centro,Agencia,24
+C01080,Premium,Lima,Digital,57
+C01081,Pyme,Lima,Digital,37
+C01082,Personas,Lima,Agencia,59
+C01083,Personas,Norte,Digital,68
+C01084,Pyme,Lima,Convenio,66
+C01085,Premium,Lima,Agencia,46
+C01086,Personas,Lima,Agencia,68
+C01087,Personas,Oriente,Digital,59
+C01088,Personas,Lima,Digital,61
+C01089,Premium,Norte,Digital,24
+C01090,Personas,Lima,Agencia,50
+C01091,Premium,Norte,Digital,50
+C01092,Personas,Lima,Agencia,42
+C01093,Personas,Lima,Convenio,31
+C01094,Personas,Norte,Convenio,22
+C01095,Personas,Lima,Agencia,64
+C01096,Personas,Lima,Digital,32
+C01097,Personas,Lima,Convenio,50
+C01098,Personas,Lima,Convenio,56
+C01099,Pyme,Lima,Digital,38
+C01100,Personas,Lima,Agencia,46
+C01101,Personas,Sur,Digital,27
+C01102,Premium,Norte,Call Center,21
+C01103,Pyme,Norte,Convenio,46
+C01104,Premium,Lima,Digital,43
+C01105,Premium,Oriente,Convenio,46
+C01106,Personas,Lima,Agencia,65
+C01107,Personas,Lima,Convenio,26
+C01108,Pyme,Norte,Agencia,26
+C01109,Pyme,Lima,Call Center,64
+C01110,Personas,Lima,Digital,28
+C01111,Pyme,Norte,Digital,44
+C01112,Personas,Sur,Digital,42
+C01113,Personas,Norte,Convenio,39
+C01114,Personas,Centro,Call Center,57
+C01115,Personas,Oriente,Convenio,38
+C01116,Personas,Lima,Convenio,51
+C01117,Personas,Lima,Digital,57
+C01118,Pyme,Lima,Digital,50
+C01119,Personas,Lima,Digital,62
+C01120,Personas,Lima,Digital,53
+C01121,Pyme,Oriente,Digital,30
+C01122,Premium,Centro,Agencia,57
+C01123,Pyme,Norte,Digital,32
+C01124,Pyme,Lima,Digital,50
+C01125,Pyme,Sur,Digital,47
+C01126,Personas,Oriente,Digital,59
+C01127,Personas,Sur,Convenio,29
+C01128,Personas,Lima,Call Center,41
+C01129,Personas,Centro,Convenio,32
+C01130,Personas,Lima,Agencia,49
+C01131,Pyme,Lima,Digital,53
+C01132,Personas,Lima,Call Center,63
+C01133,Personas,Norte,Digital,35
+C01134,Personas,Centro,Digital,22
+C01135,Pyme,Lima,Digital,59
+C01136,Personas,Lima,Digital,64
+C01137,Pyme,Norte,Digital,38
+C01138,Personas,Lima,Digital,23
+C01139,Personas,Lima,Agencia,27
+C01140,Personas,Lima,Digital,63
+C01141,Pyme,Centro,Digital,38
+C01142,Personas,Lima,Call Center,64
+C01143,Pyme,Lima,Digital,58
+C01144,Personas,Lima,Digital,57
+C01145,Personas,Oriente,Convenio,53
+C01146,Pyme,Centro,Digital,64
+C01147,Pyme,Centro,Digital,51
+C01148,Pyme,Lima,Agencia,31
+C01149,Pyme,Norte,Digital,24
+C01150,Pyme,Lima,Agencia,38
+C01151,Pyme,Centro,Call Center,24
+C01152,Pyme,Oriente,Digital,69
+C01153,Pyme,Norte,Agencia,54
+C01154,Pyme,Sur,Agencia,49
+C01155,Personas,Centro,Digital,44
+C01156,Pyme,Lima,Agencia,42
+C01157,Personas,Oriente,Digital,22
+C01158,Pyme,Lima,Agencia,64
+C01159,Pyme,Norte,Digital,26
+C01160,Personas,Lima,Agencia,62
+C01161,Pyme,Lima,Digital,45
+C01162,Personas,Lima,Call Center,41
+C01163,Personas,Lima,Digital,36
+C01164,Pyme,Norte,Digital,51
+C01165,Personas,Norte,Agencia,34
+C01166,Pyme,Lima,Agencia,59
+C01167,Pyme,Lima,Agencia,48
+C01168,Personas,Norte,Agencia,52
+C01169,Personas,Lima,Call Center,48
+C01170,Personas,Centro,Convenio,69
+C01171,Personas,Centro,Digital,29
+C01172,Premium,Sur,Agencia,65
+C01173,Personas,Centro,Call Center,42
+C01174,Personas,Lima,Convenio,52
+C01175,Personas,Centro,Convenio,25
+C01176,Personas,Lima,Digital,43
+C01177,Pyme,Lima,Digital,25
+C01178,Personas,Sur,Agencia,62
+C01179,Pyme,Lima,Agencia,52
+C01180,Personas,Sur,Agencia,30
+C01181,Premium,Sur,Agencia,59
+C01182,Personas,Sur,Call Center,35
+C01183,Personas,Oriente,Digital,27
+C01184,Premium,Lima,Convenio,49
+C01185,Personas,Lima,Digital,67
+C01186,Premium,Norte,Digital,23
+C01187,Pyme,Lima,Agencia,39
+C01188,Personas,Norte,Call Center,30
+C01189,Personas,Centro,Digital,48
+C01190,Pyme,Centro,Digital,49
+C01191,Personas,Lima,Convenio,35
+C01192,Personas,Lima,Digital,55
+C01193,Personas,Lima,Agencia,26
+C01194,Personas,Lima,Agencia,32
+C01195,Personas,Sur,Agencia,67
+C01196,Pyme,Lima,Agencia,58
+C01197,Premium,Lima,Digital,33
+C01198,Premium,Lima,Agencia,49
+C01199,Pyme,Centro,Digital,39
+C01200,Personas,Centro,Agencia,23
