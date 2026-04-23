@@ -1,0 +1,18 @@
+### Reporte Ejecutivo
+
+#### 1. Resumen de Situación
+La cartera presenta segmentos en riesgo, destacando a las Microempresas y PYMEs con tasas de mora superiores al 8%. A pesar de la salud de otros segmentos como Premium y Retail, la mora incrementada en los clientes críticos podría impactar negativamente en la calidad del portafolio. El indicador de días de mora revela un grupo de clientes con saldos significativos, resaltando la necesidad de atención inmediata.
+
+#### 2. Alertas Críticas + Acción Recomendada
+- **Microempresas:** Mora del 16.8% (portafolio: 3,560,984.07). 
+- **PYMEs:** Mora del 9.0% (portafolio: 11,225,940.06).
+  
+**Acción Recomendada:** Implementar un plan de recuperación de crédito centrado en negociación y reestructuración de deudas. Se sugiere priorizar contacto con los 10 principales clientes con mayores días de mora para mitigar el riesgo inmediato.
+
+#### 3. Oportunidades de Negocio
+Con el crecimiento del uso de canales digitales, especialmente en la App y POS, existe una oportunidad para potenciar ofertas específicas en estos segmentos. Se pueden diseñar productos que incentiven un mejor manejo de la línea de crédito y promoviendo la educación financiera.
+
+#### 4. Próximos Pasos para el Equipo
+1. Realizar un análisis detallado de los clientes en mora, enfocándose en aquellos con mayor saldo y dpd.
+2. Establecer un plan de acción para abordar la mora en Microempresas y PYMEs.
+3. Aumentar la frecuencia de monitoreo de KPIs y adaptar estrategias a la evolución del mercado y comportamiento de los clientes.
